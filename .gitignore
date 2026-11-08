@@ -1,0 +1,16 @@
+# Market data (not redistributed)
+data/
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+*.code-workspace
+.vscode/
+.idea/
